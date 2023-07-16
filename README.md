@@ -6,11 +6,15 @@ New sources will be added iteratively.
 Currently interesting things will be added until a better structure becomes apparent.
 
 ## Companies producing research
-* [Adobe](https://research.adobe.com/research/).
-* [Microsoft Research](https://www.microsoft.com/en-us/research).
-* [Nvidia](https://www.nvidia.com/en-us/research/).
-* [Electronic Arts](https://www.ea.com/technology/research).
-* [Activison](https://research.activision.com/).
+* [Adobe](https://research.adobe.com/research/)
+* [Microsoft Research](https://www.microsoft.com/en-us/research)
+* [Nvidia](https://www.nvidia.com/en-us/research/)
+* [Electronic Arts](https://www.ea.com/technology/research)
+* [Activison](https://research.activision.com/)
+
+## Conferences
+
+* [ACM CHI Conference on Human Factors in Computing Systems](https://chi2023.acm.org/)
 
 ## Client side
 Anything related to client side development, such as concurrency, parallellism, IPC, innovations or new implementation breakthroughs of GUI frameworks etc.
